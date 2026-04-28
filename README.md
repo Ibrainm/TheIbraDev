@@ -1,77 +1,93 @@
-### Hi there, I'm Ibrainm 👋
-
-
-<h3>⚡ Here's some fun facts about me:</h3>
+### ¡Hola, soy Ibrainm! 👋
 
 <br>
 
-- 🔭 I’m currently working on **C#, .NET and Blazor Projects**
-- 🌱 I'm constantly learning and improving my skills in software architecture and robust backend development.
-- 👯 I’m looking to collaborate on **.NET, Blazor, and Full Stack Projects**
-- 🤔 I’m also open for freelance opportunities.
-- 💬 Ask me about **C#, SQL Server, .NET Core or Programming in general**
-- 📫 Connect with me via email or LinkedIn!
+## 🙋‍♂️ Sobre mí
+
+Soy un desarrollador apasionado por construir aplicaciones web modernas y funcionales.
+Me enfoco en crear interfaces dinámicas e interactivas usando tecnologías actuales del ecosistema frontend,
+integrando inteligencia artificial y buenas prácticas de desarrollo.
+
+- 🔭 Actualmente trabajando en proyectos con **Vue 3, TypeScript y Gemini AI**
+- 🌱 En constante aprendizaje y mejora de mis habilidades en arquitectura frontend
+- 💡 Me interesa la integración de **IA generativa** en aplicaciones web
+- 🤝 Abierto a colaborar en proyectos **Vue, TypeScript y Full Stack**
 
 <br>
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/ibrahbp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:ibrainm.bello.perez@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-</p>
 
-<!--- stats & Trophy (start) -->
-
-<!--- stats (end) -->
-
-</p>
-<!--- stats (end) -->
-
-## 🛠️ My Skills
-
-### 👉 Programming Languages
-
-<p align="left"> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://en.wikipedia.org/wiki/SQL">
-    <img alt="SQL" src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Frameworks & Technologies
-
-<p align="left"> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"> 
-     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"> 
-   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white">
-  </a>   
-</p>
-
-### 👉 Databases
+## 🤝 Conecta conmigo
 
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ibrahbp">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
 </p>
 
-### 👉 Software & Tools
+<br>
 
-<p>
-    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+## 🛠️ Tecnologías
+
+### 👉 Lenguajes
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
   &emsp;
-    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
   &emsp;
-    <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
   &emsp;
-    <a href="https://postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
 </p>
+
+### 👉 Frameworks & Librerías
+
+<p align="left">
+  <a href="https://vuejs.org/" target="_blank">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://pinia.vuejs.org/" target="_blank">
+    <img alt="Pinia" src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vue.js&logoColor=black"/>
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Inteligencia Artificial
+
+<p align="left">
+  <a href="https://ai.google.dev/" target="_blank">
+    <img alt="Gemini AI" src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+</p>
+
+### 👉 Herramientas & Software
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.postman.com/">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  </a>
+</p>
+
+
 <!--profile visit count-->
 <div align="center">
 
@@ -79,5 +95,6 @@
 
 </div>
 <br/>
+
 ------
 Credit: [TheIbraDev](https://github.com/TheIbraDev)
