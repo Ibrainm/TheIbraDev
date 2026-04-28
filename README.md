@@ -95,6 +95,3 @@ integrando inteligencia artificial y buenas prácticas de desarrollo.
 
 </div>
 <br/>
-
-------
-Credit: [TheIbraDev](https://github.com/TheIbraDev)
